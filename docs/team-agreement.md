@@ -1,5 +1,7 @@
 # Team agreement
 
+Written by: Test A and Test B
+
 How our team works together. Every member reads it at the start, and we read it again when something goes wrong.
 
 ## Members, roles and pairs
@@ -26,9 +28,9 @@ part decides, and writes down why.
 
 ## When a pull request is done
 
-A pull request is merged only when the starter's checks are green, the other member has reviewed and approved it, the
-preview works for the change, and the AI note is filled in. The reviewer opens the preview and reads Files changed line
-by line.
+A pull request changes code. The member who made it merges it, once the starter's checks are green, the preview works
+for the change and the AI note is filled in. A review is optional: we ask the other member for one when a change touches
+the booking. Our documents go straight to main.
 
 ## The AI note
 

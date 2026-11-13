@@ -1,5 +1,7 @@
 # Design rationale
 
+Written by: Test A and Test B
+
 Why our site looks and behaves the way it does. Whoever changes the design later reads it first, so they
 know what each choice protects.
 

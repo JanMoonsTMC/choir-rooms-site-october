@@ -1,5 +1,7 @@
 # Requirements
 
+Written by: Test A and Test B
+
 What the site must do, written so that someone else can check it. Each requirement expresses a need of
 our users, and has a check that passes or fails on the live site. The results were filled in on
 18 October 2026, at the hand-over: where a pull request was not merged yet, the result says where it

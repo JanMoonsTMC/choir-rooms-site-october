@@ -1,5 +1,7 @@
 # Test report
 
+Written by: Test A and Test B
+
 What we learned by testing our site with its tasks and with tools. It is read by whoever decides whether
 the site can go live, and later by whoever improves it. Round 1 tested the primary task (book a room) and
 led to four fixes; round 2 tested the second task (find a room) on the finished site, before the hand-over.

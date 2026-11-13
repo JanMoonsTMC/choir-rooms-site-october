@@ -1,5 +1,7 @@
 # Project brief
 
+Written by: Test A and Test B
+
 The short description of your site: who it is for and what it does. Its reader has never seen your
 site, so write what a stranger needs to understand it. Keep it to one page; the details belong in
 `docs/requirements.md`.

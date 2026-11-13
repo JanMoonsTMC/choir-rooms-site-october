@@ -1,5 +1,7 @@
 # Content and structure
 
+Written by: Test A and Test B
+
 What content our site holds and how it is organised. Everyone who adds a page or a field reads it first,
 so the site keeps one structure.
 

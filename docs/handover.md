@@ -1,5 +1,7 @@
 # Hand-over
 
+Written by: Test A and Test B
+
 Everything the next owner of this site needs. Never write a password, a secret or a connection string
 in this file.
 
