@@ -34,7 +34,7 @@ export function Footer() {
           </ul>
         </nav>
         <p className="border-t border-line pt-6 text-sm text-ink-soft sm:col-span-2">
-          Riverside Voices is a fictional choir, made for the course Building better websites. Team code: T29-7G6N.
+          Riverside Voices is a fictional choir, made for the course Building better websites. Team code: T30-HH7T.
         </p>
       </div>
     </footer>
