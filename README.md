@@ -19,13 +19,13 @@ and Blob through Vercel.
 
 | Document | What it says |
 | --- | --- |
-| [Team agreement](docs/team-agreement.md) (D0) | Who does what, and how we decide and review |
+| [Team agreement](docs/team-agreement.md) (D0) | Who does what, how we decide, and when a pull request is done |
 | [Brief](docs/brief.md) (D1) | The site's promise, its users, the two tasks ranked, what is left out |
-| [Requirements](docs/requirements.md) (D2) | R1 to R12, each with a check and its result |
+| [Requirements](docs/requirements.md) (D2) | R1 to R13, each with a check and its result |
 | [Content and structure](docs/content-structure.md) (D3) | The content model, the sitemap, the menu, both tasks step by step |
 | [Design rationale](docs/design-rationale.md) (D4) | Sketches, palette and type, layout, principles, forms |
 | [Decision records](docs/decisions/README.md) (D5) | Our topic and tasks, one group per slot, live content, analytics, our integration (the tawk.to chat window), the calendar file |
-| [Test report](docs/test-report.md) (D6) | Two rounds with people, the tools, the fixes and the release check |
+| [Test report](docs/test-report.md) (D6) | Our primary task tested in two rounds, the tools, the fixes and the release check |
 | [Hand-over](docs/handover.md) (D7) | Who owns what, what to build next, how to know it works |
 
 ## Run it on your own computer

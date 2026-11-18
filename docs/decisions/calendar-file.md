@@ -4,7 +4,8 @@
 > chat window): the calendar file is not on the course's suggested list of integrations. The decision
 > below still holds for the file itself, which stays on the site as a feature of the booking task
 > (`docs/content-structure.md`, "Features of the tasks"). This record was first written as
-> `integration.md`; it moved here, unchanged below this note, so that the folder keeps it.
+> `integration.md`; it moved here so that the folder keeps it. On 18 November 2026 we corrected two
+> sentences about test round 1: nobody else was watched in that round (`docs/test-report.md`).
 
 Whether the site connects to another service, and to which. Its reader comes later, with one question:
 can I change this, and what happens if I do? Decided by Test B, with Test A, on 18 October 2026.
@@ -17,7 +18,8 @@ the place (requirement R11)?
 ## Options considered
 
 - **No integration: the confirmation page only.** Advantage: nothing to build. Drawback: the
-  confirmation is gone once the tab is closed; in test round 1 people asked what happens next.
+  confirmation is gone once the tab is closed; in test round 1 it left open what happens next
+  (`docs/test-report.md`, finding 3).
 - **A confirmation e-mail through an e-mail service (Resend).** Advantage: it arrives where people look.
   Drawback: it needs an account, an API key and a sending domain, and our brief rules out new accounts
   and any real e-mail to made-up addresses.
@@ -50,8 +52,9 @@ A calendar file of the booking: **Add to my calendar** on the confirmation page.
 
 - The brief allows no new accounts, keys or payments: the calendar file is the only candidate that needs
   none of them and still helps with the primary task.
-- In test round 1, two of three people asked what happens after booking; the time and the place in their
-  own calendar answer half of it (the "What happens next" text answers the rest).
+- In test round 1 the confirmation left open what happens after booking (`docs/test-report.md`,
+  finding 3); the time and the place in the group's own calendar answer half of it (the "What happens
+  next" text answers the rest).
 - Nothing leaves our site: the file is made on our server and downloaded by the user.
 
 ## Consequences
